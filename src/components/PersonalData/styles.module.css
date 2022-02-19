@@ -1,0 +1,54 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  background-color: #fff;
+  border: 0.5px solid rgb(43, 5, 78);
+  border-radius: none;
+  outline: none;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+.btnActive {
+  background-color: rgb(43, 5, 78);
+  color: #fff;
+  border: 0.5px solid rgb(43, 5, 78);
+  border-radius: none;
+  outline: none;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputName {
+  margin-left: 5px;
+  text-align: start;
+  font-size: small;
+}
+
+.inp {
+  outline: none;
+  border: none;
+  background-color: rgb(241, 236, 245);
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.inpWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dataWrapper {
+  display: flex;
+  justify-content: center;
+}
