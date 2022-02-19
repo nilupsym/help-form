@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/help-form/static/css/main.328e62bd.css",
+    "main.js": "/help-form/static/js/main.f2f94caf.js",
+    "index.html": "/help-form/index.html",
+    "main.328e62bd.css.map": "/help-form/static/css/main.328e62bd.css.map",
+    "main.f2f94caf.js.map": "/help-form/static/js/main.f2f94caf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328e62bd.css",
+    "static/js/main.f2f94caf.js"
+  ]
+}
