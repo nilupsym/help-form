@@ -1,0 +1,40 @@
+.title {
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.cardWrapper {
+  background-color: rgb(216, 199, 236);
+  padding: 10px;
+}
+.cardNumber {
+  display: flex;
+  justify-content: space-between;
+}
+.cardNumberInput {
+  width: 50px;
+  outline: none;
+  border: none;
+  background-color: rgb(241, 236, 245);
+  padding: 10px;
+  margin: 5px;
+}
+
+.cardData {
+  display: flex;
+}
+
+.cardDataTitle {
+  padding: 0;
+  margin: 0;
+  margin-left: 5px;
+  text-align: left;
+}
+
+.cardDataInput {
+  outline: none;
+  border: none;
+  background-color: rgb(241, 236, 245);
+  padding: 10px;
+  margin: 5px;
+}

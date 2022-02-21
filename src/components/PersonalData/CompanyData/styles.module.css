@@ -1,0 +1,23 @@
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputName {
+  margin-left: 5px;
+  text-align: start;
+  font-size: small;
+}
+
+.inp {
+  outline: none;
+  border: none;
+  background-color: rgb(241, 236, 245);
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.inpWrapper {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,18 @@
+.payment {
+  display: flex;
+}
+
+.btn {
+  margin-top: 10px;
+  padding: 10px 50px;
+  font-size: small;
+  color: #fff;
+  outline: none;
+  border: none;
+  background-color: rgb(158, 91, 172);
+  box-shadow: 3px 3px 3px #ccc;
+}
+.btn:hover {
+  background-color: rgb(78, 37, 80);
+  cursor: pointer;
+}

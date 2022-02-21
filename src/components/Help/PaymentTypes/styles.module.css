@@ -1,0 +1,30 @@
+.title {
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.listPay {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  list-style: none;
+}
+
+.listPayItem {
+  color: rgb(173, 154, 154);
+  background-color: rgb(241, 236, 245);
+  padding: 25px 40px;
+  margin: 5px;
+}
+.listPayItem:hover {
+  cursor: pointer;
+}
+
+.listPayItemActive {
+  color: #fff;
+  background-color: rgb(43, 5, 78);
+  padding: 25px 40px;
+  margin: 5px;
+}
