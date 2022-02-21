@@ -28,3 +28,10 @@
   padding: 25px 40px;
   margin: 5px;
 }
+
+@media screen and (max-width: 767px) {
+  .listPay {
+    display: flex;
+    justify-content: center;
+  }
+}

@@ -2,8 +2,6 @@
   padding: 0;
   margin-left: 5px;
   margin-right: 5px;
-  display: flex;
-  justify-content: space-between;
   list-style: none;
 }
 
@@ -11,6 +9,7 @@
   color: rgb(173, 154, 154);
   background-color: rgb(241, 236, 245);
   padding: 15px 20px;
+  margin-bottom: 5px;
 }
 
 .listItem:hover {
@@ -21,4 +20,11 @@
   color: #fff;
   background-color: rgb(43, 5, 78);
   padding: 15px 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .list {
+    display: flex;
+    justify-content: space-between;
+  }
 }
